@@ -4,7 +4,7 @@ SprintKey is a beginner-friendly typing speed tester built in C++ that runs enti
 
 ## Features
 
--Difficulty levels:
+- Difficulty levels:
   - Easy
   - Medium
   - Hard
@@ -15,14 +15,14 @@ SprintKey is a beginner-friendly typing speed tester built in C++ that runs enti
 - Help section explaining how the program works
 
 ## Tech Stack 
-*C++
+C++
 
 ## How to Run
 
-Clone the repository
-Go to the project folder
-Compile
-Run
+- Clone the repository
+- Go to the project folder
+- Compile
+- Run
 
 ## How It Works
 
@@ -48,6 +48,5 @@ Run
 
 I built SprintKey as my first major C++ project after learning the basics of the language. The goal was to combine functions, arrays, strings, randomization, timers, and user input into a complete console application instead of writing small practice programs.
 
-I'm planning to continue improving it as I learn more C++.
 
 ---
