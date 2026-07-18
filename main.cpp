@@ -16,21 +16,18 @@ void test(){
     cout<<endl<<"Enter level number: ";
     cin>>x;
     cin.ignore();
-    string a, b, c;
+   
     if(x==1){
         int index = randomindex() % 5;
-        a = easy[index];
         cout<<endl<<easy[index];
         
     }
     else if(x==2){
         int index = randomindex() % 5;
-        b = medium[index];
         cout<<endl<<medium[index];
     }
     else if(x==3){
         int index = randomindex() % 5;
-        c = hard[index];
         cout<<endl<<hard[index];
     }
     else{
