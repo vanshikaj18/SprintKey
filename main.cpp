@@ -20,7 +20,6 @@ void test(){
     if(x==1){
         int index = randomindex() % 5;
         cout<<endl<<easy[index];
-        
     }
     else if(x==2){
         int index = randomindex() % 5;
