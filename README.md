@@ -46,7 +46,4 @@ C++
 
 ## Why I Built This
 
-I built SprintKey as my first major C++ project after learning the basics of the language. The goal was to combine functions, arrays, strings, randomization, timers, and user input into a complete console application instead of writing small practice programs.
-
-
----
+I built SprintKey as my first C++ project after learning the basics of the language. The goal was to combine functions, arrays, strings, randomization, timers, and user input into a complete console application instead of writing small practice programs.
